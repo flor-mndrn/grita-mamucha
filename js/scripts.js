@@ -7,7 +7,7 @@
 // Use this file to add JavaScript to your project
 //$("#bg-img").fadeOut(5000); 
 
-//$("body").prepend('<div id="bg-img"></div>');
+$("body").prepend('<div id="bg-img"></div>');
 //Declaración de métodos encadenados
 $("#bg-img").delay(3000)
        .fadeOut(2000);
